@@ -43,8 +43,8 @@ It's important to understand that using this tool for torrenting **may violate G
 
 If you find this tool helpful and would like to support its development, please consider making a donation. Your support helps keep the project alive and allows for future improvements!
 
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jleonoras)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jleonoras)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/jleonoras)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-support-yellow.svg?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/jleonoras)
 
 Thank you for your support!
 
