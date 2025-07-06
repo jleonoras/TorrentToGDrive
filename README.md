@@ -1,6 +1,6 @@
 # Torrent to Google Drive Downloader 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/0xc3nt4ur10n/TorrentToGDrive/blob/main/TorrentToGDrive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jleonoras/TorrentToGDrive/blob/main/TorrentToGDrive.ipynb)
 
 A powerful and easy-to-use torrent downloader that runs directly in a Google Colab notebook. Download files from magnet links or `.torrent` files and save them directly to your Google Drive.
 
